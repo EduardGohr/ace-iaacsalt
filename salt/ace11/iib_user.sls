@@ -1,3 +1,4 @@
+# creating ACE OS user and group
 wbiadm11:
   user.present:
     - name: wbiadm11
